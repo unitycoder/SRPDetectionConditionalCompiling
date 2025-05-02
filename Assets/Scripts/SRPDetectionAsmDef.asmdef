@@ -1,0 +1,17 @@
+{
+    "name": "SRPDetectionAsmDef",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ef6740722fcb2a449813ca946cd27cab",
+        "GUID:cf86643dd763b804486f0e9d0e649c34"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

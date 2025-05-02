@@ -1,0 +1,20 @@
+{
+    "name": "DetectURPAsmDef",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "[10.0,256.0]",
+            "define": "URP_INSTALLED"
+        }
+    ],
+    "noEngineReferences": false
+}
