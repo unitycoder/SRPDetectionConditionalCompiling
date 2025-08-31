@@ -9,3 +9,6 @@ detect URP or HDRP with assembly definitions, to use #URP_INSTALLED or #HDRP_INS
 
 ### blog post
 https://unitycoder.com/blog/2025/05/02/detect-srp-urp-or-hdrp-with-assemble-definition-version-defines/
+
+### resources
+- [Resource] Automatic Package import after installation + Versioning : https://discussions.unity.com/t/resource-automatic-package-import-after-installation-versioning/924829
